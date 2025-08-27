@@ -14,7 +14,10 @@ public class Main {
 		//kc.mataNome("notepad.exe");
 		
 		//Processos em Linux
-		
+		//kc.listaProc("ps -ef");
+		//kc.mataPid(6411);
+		//kc.mataNome("mousepad");
 	}
+	
 
 }
